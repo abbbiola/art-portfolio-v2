@@ -158,13 +158,13 @@
         "description": "Honestly, I chose the skull as a subject partly because I really wanted to push my rendering skills; getting those technical details and the way light and shadow play across bone is something I very much enjoy. But the more time I spent on it, the more I couldn't help but notice how I felt towards it. What remains is a reminder of how we all have a shared foundation no matter how different we may appear on the outside. We all return to this fundamental structure at the end."
       },
       {
-        "id": "untitled-study",
-        "title": "untitled study",
+        "id": "puddle",
+        "title": "puddle",
         "category": "drawings",
         "medium": "white charcoal on black paper",
         "year": 2023,
-        "dimensions": "",
-        "image": "images/gesture.jpg",
+        "dimensions": "8x10",
+        "image": "images/puddle.jpeg",
         "alt": "White charcoal gesture study on black paper, capturing movement and form.",
         "description": ""
       },
@@ -268,10 +268,21 @@
   "description": ""
 },
       {
+  "id": "kettle",
+  "title": "fabric",
+  "category": "drawings",
+  "medium": "charcoal on paper",
+  "year": 2023,
+  "dimensions": "9x12",
+  "image": "images/kettke,jpeg",
+  "alt": "A charcoal still life of a tall pitcher, a round lidded jar, a draped cloth, and two pears arranged on a surface against a dark background",
+  "description": ""
+},
+        {
   "id": "",
   "title": "",
   "category": "drawings",
-  "medium": "",
+  "medium": "graphite and charcoal on paper",
   "year": 2026,
   "dimensions": "",
   "image": "images/",
@@ -332,29 +343,7 @@
   "image": "images/",
   "alt": "",
   "description": ""
-},
-        {
-  "id": "",
-  "title": "",
-  "category": "drawings",
-  "medium": "",
-  "year": 2026,
-  "dimensions": "",
-  "image": "images/",
-  "alt": "",
-  "description": ""
-},
-        {
-  "id": "",
-  "title": "",
-  "category": "drawings",
-  "medium": "",
-  "year": 2026,
-  "dimensions": "",
-  "image": "images/",
-  "alt": "",
-  "description": ""
-},
+
       
     ]
   },
