@@ -97,7 +97,7 @@
         "category": "drawings",
         "medium": "charcoal on paper",
         "year": 2025,
-        "dimensions": 8x10"",
+        "dimensions": "8x10",
         "image": "images/panda.jpeg",
         "alt": "Charcoal drawing of a panda, rendered in a soft impressionist style to convey gentleness.",
         "description": "This was a fun piece to do. I wanted to capture the panda's gentle nature with my version of impressionism without focusing on too much detail, keeping it soft and loose."
@@ -285,7 +285,7 @@
   "medium": "charcoal on paper",
   "year": 2023,
   "dimensions": "9x12",
-  "image": "images/kettke,jpeg",
+  "image": "images/kettke.jpeg",
   "alt": "A charcoal still life of a tall pitcher, a round lidded jar, a draped cloth, and two pears arranged on a surface against a dark background",
   "description": ""
 },
