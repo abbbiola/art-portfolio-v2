@@ -6,6 +6,9 @@
         "title": "complementary (sunflowers and lavenders)",
         "category": "paintings",
         "medium": "acrylic on canvas",
+        "mediumTags": [
+          "acrylic"
+        ],
         "year": 2025,
         "dimensions": "5x7",
         "image": "images/sunflowerlavender.jpeg",
@@ -17,6 +20,9 @@
         "title": "cracked (fruit bowl)",
         "category": "paintings",
         "medium": "fresco attached to wood",
+        "mediumTags": [
+          "fresco"
+        ],
         "year": 2023,
         "dimensions": "9x12",
         "image": "images/fruitbowl.jpeg",
@@ -28,6 +34,9 @@
         "title": "last light",
         "category": "paintings",
         "medium": "acrylic on canvas",
+        "mediumTags": [
+          "acrylic"
+        ],
         "year": 2024,
         "dimensions": "14x17",
         "image": "images/sunset.jpeg",
@@ -39,6 +48,9 @@
         "title": "lotus",
         "category": "paintings",
         "medium": "acrylic on canvas paper",
+        "mediumTags": [
+          "acrylic"
+        ],
         "year": 2022,
         "dimensions": "8x10",
         "image": "images/lotus.jpeg",
@@ -50,6 +62,9 @@
         "title": "soft bloom",
         "category": "paintings",
         "medium": "oil on canvas",
+        "mediumTags": [
+          "oil"
+        ],
         "year": 2024,
         "dimensions": "14x17",
         "image": "images/lily.jpeg",
@@ -57,23 +72,30 @@
         "description": "This piece was done in the spring, usually my favourite season. It's when things tend to start over to me, when everything, including nature, wakes up. But that year, I didn't feel any of that. I felt stuck, even as the world around me bloomed. I was unsure if the \"reset\" would ever happen. This painting was done solely on that feeling."
       },
       {
-  "id": "vasebaseball",
-  "title": "still life in green",
-  "category": "paintings",
-  "medium": "watercolour on paper",
-  "year": 2022,
-  "dimensions": "9x12",
-  "image": "images/vasebaseball.jpeg",
-  "alt": "Watercolor still life of a gray vase with flowers, two baseballs, and a small can arranged over draped fabric against a bright green background.",
-  "description": ""
-}
+        "id": "vasebaseball",
+        "title": "still life in green",
+        "category": "paintings",
+        "medium": "watercolour on paper",
+        "mediumTags": [
+          "watercolour"
+        ],
+        "year": 2022,
+        "dimensions": "9x12",
+        "image": "images/vasebaseball.jpeg",
+        "alt": "Watercolor still life of a gray vase with flowers, two baseballs, and a small can arranged over draped fabric against a bright green background.",
+        "description": ""
+      }
     ],
     "drawings": [
       {
         "id": "bermuda-in-passing",
         "title": "bermuda in passing",
         "category": "drawings",
+        "section": "finished",
         "medium": "charcoal on paper",
+        "mediumTags": [
+          "charcoal"
+        ],
         "year": 2023,
         "dimensions": "7x10",
         "image": "images/bermuda.jpeg",
@@ -84,7 +106,11 @@
         "id": "identity-stripes",
         "title": "identity stripes",
         "category": "drawings",
+        "section": "finished",
         "medium": "chalk pastel on paper",
+        "mediumTags": [
+          "pastel"
+        ],
         "year": 2023,
         "dimensions": "9x12",
         "image": "images/zebra.jpeg",
@@ -95,7 +121,11 @@
         "id": "panda",
         "title": "panda",
         "category": "drawings",
+        "section": "finished",
         "medium": "charcoal on paper",
+        "mediumTags": [
+          "charcoal"
+        ],
         "year": 2025,
         "dimensions": "8x10",
         "image": "images/panda.jpeg",
@@ -106,7 +136,11 @@
         "id": "pears-study",
         "title": "pears study",
         "category": "drawings",
+        "section": "finished",
         "medium": "charcoal on paper",
+        "mediumTags": [
+          "charcoal"
+        ],
         "year": 2023,
         "dimensions": "8x10",
         "image": "images/pears.jpeg",
@@ -117,7 +151,11 @@
         "id": "pineapple-study",
         "title": "pineapple study",
         "category": "drawings",
+        "section": "finished",
         "medium": "charcoal on paper",
+        "mediumTags": [
+          "charcoal"
+        ],
         "year": 2023,
         "dimensions": "9x12",
         "image": "images/pineapple.jpeg",
@@ -128,7 +166,11 @@
         "id": "lover-eye",
         "title": "lover's eye",
         "category": "drawings",
+        "section": "finished",
         "medium": "charcoal on paper",
+        "mediumTags": [
+          "charcoal"
+        ],
         "year": 2025,
         "dimensions": "5x7",
         "image": "images/lover_eye.jpeg",
@@ -139,7 +181,11 @@
         "id": "sundae-in-a-cup",
         "title": "sundae in a cup?",
         "category": "drawings",
+        "section": "finished",
         "medium": "colour pencil on paper",
+        "mediumTags": [
+          "colour pencil"
+        ],
         "year": 2023,
         "dimensions": "9x12",
         "image": "images/icecream_glass.jpeg",
@@ -150,7 +196,11 @@
         "id": "the-observer",
         "title": "the observer",
         "category": "drawings",
+        "section": "finished",
         "medium": "charcoal on paper",
+        "mediumTags": [
+          "charcoal"
+        ],
         "year": 2023,
         "dimensions": "11x14",
         "image": "images/camera.jpeg",
@@ -161,7 +211,11 @@
         "id": "what-remains",
         "title": "what remains",
         "category": "drawings",
+        "section": "finished",
         "medium": "charcoal on paper",
+        "mediumTags": [
+          "charcoal"
+        ],
         "year": 2024,
         "dimensions": "",
         "image": "images/skull.jpeg",
@@ -172,147 +226,305 @@
         "id": "puddle",
         "title": "puddle",
         "category": "drawings",
+        "section": "finished",
         "medium": "white charcoal on black paper",
+        "mediumTags": [
+          "charcoal"
+        ],
         "year": 2023,
         "dimensions": "8x10",
         "image": "images/puddle.jpeg",
         "alt": "White charcoal gesture study on black paper, capturing movement and form.",
         "description": ""
       },
-        {
-  "id": "afro",
-  "title": "mother tongue",
-  "category": "drawings",
-  "medium": "charcoal on paper",
-  "year": 2025,
-  "dimensions": "8x10",
-  "image": "images/afro.jpeg",
-  "alt": "a detailed charcoal drawing of a Black figure with a large afro, head tilted back and eyes closed against a dark background.",
-  "description": "the figure is looking upward, eyes closed. there's something about a face tilted back that feels unguarded. the afro takes up most of the frame intentionally. mother tongue is about the parts of identity that just come with you which are the things you carry without having to think about them, that don't need explaining."
-},
       {
-  "id": "apple",
-  "title": "apple study",
-  "category": "drawings",
-  "medium": "graphite on paper",
-  "year": 2023,
-  "dimensions": "5x7",
-  "image": "images/apple.jpeg",
-  "alt": "graphite drawing of a round apple with a curved stem and overlapping leaves, rendered with soft shading and a dark cast shadow beneath it.",
-  "description": ""
-},
+        "id": "afro",
+        "title": "mother tongue",
+        "category": "drawings",
+        "section": "finished",
+        "medium": "charcoal on paper",
+        "mediumTags": [
+          "charcoal"
+        ],
+        "year": 2025,
+        "dimensions": "8x10",
+        "image": "images/afro.jpeg",
+        "alt": "a detailed charcoal drawing of a Black figure with a large afro, head tilted back and eyes closed against a dark background.",
+        "description": "the figure is looking upward, eyes closed. there's something about a face tilted back that feels unguarded. the afro takes up most of the frame intentionally. mother tongue is about the parts of identity that just come with you which are the things you carry without having to think about them, that don't need explaining."
+      },
       {
-  "id": "back",
-  "title": "ascension",
-  "category": "drawings",
-  "medium": "charcoal on paper",
-  "year": 2025,
-  "dimensions": "8x10",
-  "image": "images/back.jpeg",
-  "alt": "a detailed charcoal drawing of a Black figure seen from behind, braids pinned at the top of the head, with dramatic light radiating from behind and strong muscle definition across the back and shoulders.",
-  "description": "i mostly made this because i wanted to study the back. there's so much to work with; the muscles, the shadows, the small shifts in posture. without a face to anchor everything, i had to pay closer attention to the body itself and what it could communicate through light and form alone. i was surprised by how much it could say."
-},
+        "id": "apple",
+        "title": "apple study",
+        "category": "drawings",
+        "section": "finished",
+        "medium": "graphite on paper",
+        "mediumTags": [
+          "graphite"
+        ],
+        "year": 2023,
+        "dimensions": "5x7",
+        "image": "images/apple.jpeg",
+        "alt": "graphite drawing of a round apple with a curved stem and overlapping leaves, rendered with soft shading and a dark cast shadow beneath it.",
+        "description": ""
+      },
       {
-  "id": "bangs",
-  "title": "graphite study",
-  "category": "drawings",
-  "medium": "graphite on paper",
-  "year": 2023,
-  "dimensions": "8x10",
-  "image": "images/bangs.jpeg",
-  "alt": "A detailed pencil portrait of a young woman with dark shoulder-length hair and bangs, a nose ring, hoop earrings, and a beauty mark, looking directly at the viewer.",
-  "description": ""
-},
+        "id": "back",
+        "title": "ascension",
+        "category": "drawings",
+        "section": "finished",
+        "medium": "charcoal on paper",
+        "mediumTags": [
+          "charcoal"
+        ],
+        "year": 2025,
+        "dimensions": "8x10",
+        "image": "images/back.jpeg",
+        "alt": "a detailed charcoal drawing of a Black figure seen from behind, braids pinned at the top of the head, with dramatic light radiating from behind and strong muscle definition across the back and shoulders.",
+        "description": "i mostly made this because i wanted to study the back. there's so much to work with; the muscles, the shadows, the small shifts in posture. without a face to anchor everything, i had to pay closer attention to the body itself and what it could communicate through light and form alone. i was surprised by how much it could say."
+      },
       {
-  "id": "bowls",
-  "title": "ceramics study",
-  "category": "drawings",
-  "medium": "charcoal on paper",
-  "year": 2023,
-  "dimensions": "8x10",
-  "image": "images/bowls.jpeg",
-  "alt": "A charcoal still life of three ceramic vessels on a surface — a short wide jar on the left, a tall narrow-necked vase in the center, and a small bowl on the right, with soft shadows and light background",
-  "description": ""
-},
+        "id": "bangs",
+        "title": "graphite study",
+        "category": "drawings",
+        "section": "finished",
+        "medium": "graphite on paper",
+        "mediumTags": [
+          "graphite"
+        ],
+        "year": 2023,
+        "dimensions": "8x10",
+        "image": "images/bangs.jpeg",
+        "alt": "A detailed pencil portrait of a young woman with dark shoulder-length hair and bangs, a nose ring, hoop earrings, and a beauty mark, looking directly at the viewer.",
+        "description": ""
+      },
       {
-  "id": "butterfly",
-  "title": "briefly (fingers study)",
-  "category": "drawings",
-  "medium": "graphite on paper",
-  "year": 2023,
-  "dimensions": "5x7",
-  "image": "images/butterfly.jpeg",
-  "alt": "A detailed charcoal drawing of a butterfly perched on the tip of a finger, wings open, with a gradient from light to dark in the background",
-  "description": ""
-},
+        "id": "bowls",
+        "title": "ceramics study",
+        "category": "drawings",
+        "section": "finished",
+        "medium": "charcoal on paper",
+        "mediumTags": [
+          "charcoal"
+        ],
+        "year": 2023,
+        "dimensions": "8x10",
+        "image": "images/bowls.jpeg",
+        "alt": "A charcoal still life of three ceramic vessels on a surface — a short wide jar on the left, a tall narrow-necked vase in the center, and a small bowl on the right, with soft shadows and light background",
+        "description": ""
+      },
       {
-  "id": "cubism",
-  "title": "cubism reimagined",
-  "category": "drawings",
-  "medium": "charcoal and acrylic on paper",
-  "year": 2023,
-  "dimensions": "9x12",
-  "image": "images/cubism.jpeg",
-  "alt": "A charcoal still life of geometric forms — a cylinder, cone, cube, and sphere arranged on a rectangular pedestal against a dark background",
-  "description": ""
-},
+        "id": "butterfly",
+        "title": "briefly (fingers study)",
+        "category": "drawings",
+        "section": "finished",
+        "medium": "graphite on paper",
+        "mediumTags": [
+          "graphite"
+        ],
+        "year": 2023,
+        "dimensions": "5x7",
+        "image": "images/butterfly.jpeg",
+        "alt": "A detailed charcoal drawing of a butterfly perched on the tip of a finger, wings open, with a gradient from light to dark in the background",
+        "description": ""
+      },
       {
-  "id": "eye-reflection",
-  "title": "second glance (a study)",
-  "category": "drawings",
-  "medium": "charcoal on paper",
-  "year": 2023,
-  "dimensions": "8x10",
-  "image": "images/eye_reflection.jpeg",
-  "alt": "A highly detailed charcoal close-up of a single eye with long lashes, a light reflection visible in the iris, and tears forming along the lower lash line.",
-  "description": ""
-},
+        "id": "cubism",
+        "title": "cubism reimagined",
+        "category": "drawings",
+        "section": "finished",
+        "medium": "charcoal and acrylic on paper",
+        "mediumTags": [
+          "charcoal",
+          "acrylic"
+        ],
+        "year": 2023,
+        "dimensions": "9x12",
+        "image": "images/cubism.jpeg",
+        "alt": "A charcoal still life of geometric forms — a cylinder, cone, cube, and sphere arranged on a rectangular pedestal against a dark background",
+        "description": ""
+      },
       {
-  "id": "hand-reaching",
-  "title": "almost",
-  "category": "drawings",
-  "medium": "scratchboard",
-  "year": 2023,
-  "dimensions": "8x10",
-  "image": "images/hand_reaching.jpeg",
-  "alt": "A white-on-black drawing of a hand emerging from darkness, fingers spread and slightly curled, with a ring on one finger and fine detailed linework throughout.",
-  "description": ""
-},
+        "id": "eye-reflection",
+        "title": "second glance (a study)",
+        "category": "drawings",
+        "section": "finished",
+        "medium": "charcoal on paper",
+        "mediumTags": [
+          "charcoal"
+        ],
+        "year": 2023,
+        "dimensions": "8x10",
+        "image": "images/eye_reflection.jpeg",
+        "alt": "A highly detailed charcoal close-up of a single eye with long lashes, a light reflection visible in the iris, and tears forming along the lower lash line.",
+        "description": ""
+      },
       {
-  "id": "kettle",
-  "title": "fabric",
-  "category": "drawings",
-  "medium": "charcoal on paper",
-  "year": 2023,
-  "dimensions": "9x12",
-  "image": "images/kettle.jpeg",
-  "alt": "A charcoal still life of a tall pitcher, a round lidded jar, a draped cloth, and two pears arranged on a surface against a dark background",
-  "description": ""
-},
-        {
-  "id": "pumpkin",
-  "title": "pumpkin study",
-  "category": "drawings",
-  "medium": "graphite and charcoal on paper",
-  "year": 2022,
-  "dimensions": "9x12",
-  "image": "images/pumpkin.jpeg",
-  "alt": "Charcoal drawing of a pumpkin, focusing on its ridged texture, curved form, and strong contrast between light and shadow.",
-  "description": ""
-},
-        {
-  "id": "wheelbarrow",
-  "title": "surreal object study",
-  "category": "drawings",
-  "medium": "colour pencil on paper",
-  "year": 2022,
-  "dimensions": "9x12",
-  "image": "images/wheelbarrow.jpeg",
-  "alt": "A colored pencil drawing of a wooden wheelbarrow with a red and white striped peppermint in place of a standard wheel, set against a white background with a soft shadow",
-  "description": ""
-}
-      
+        "id": "hand-reaching",
+        "title": "almost",
+        "category": "drawings",
+        "section": "finished",
+        "medium": "scratchboard",
+        "mediumTags": [
+          "scratchboard"
+        ],
+        "year": 2023,
+        "dimensions": "8x10",
+        "image": "images/hand_reaching.jpeg",
+        "alt": "A white-on-black drawing of a hand emerging from darkness, fingers spread and slightly curled, with a ring on one finger and fine detailed linework throughout.",
+        "description": ""
+      },
+      {
+        "id": "kettle",
+        "title": "fabric",
+        "category": "drawings",
+        "section": "finished",
+        "medium": "charcoal on paper",
+        "mediumTags": [
+          "charcoal"
+        ],
+        "year": 2023,
+        "dimensions": "9x12",
+        "image": "images/kettle.jpeg",
+        "alt": "A charcoal still life of a tall pitcher, a round lidded jar, a draped cloth, and two pears arranged on a surface against a dark background",
+        "description": ""
+      },
+      {
+        "id": "pumpkin",
+        "title": "pumpkin study",
+        "category": "drawings",
+        "section": "finished",
+        "medium": "graphite and charcoal on paper",
+        "mediumTags": [
+          "graphite",
+          "charcoal"
+        ],
+        "year": 2022,
+        "dimensions": "9x12",
+        "image": "images/pumpkin.jpeg",
+        "alt": "Charcoal drawing of a pumpkin, focusing on its ridged texture, curved form, and strong contrast between light and shadow.",
+        "description": ""
+      },
+      {
+        "id": "wheelbarrow",
+        "title": "surreal object study",
+        "category": "drawings",
+        "section": "finished",
+        "medium": "colour pencil on paper",
+        "mediumTags": [
+          "colour pencil"
+        ],
+        "year": 2022,
+        "dimensions": "9x12",
+        "image": "images/wheelbarrow.jpeg",
+        "alt": "A colored pencil drawing of a wooden wheelbarrow with a red and white striped peppermint in place of a standard wheel, set against a white background with a soft shadow",
+        "description": ""
+      }
     ]
   },
-  "writing": []
+  "writing": [
+    {
+      "id": "the-annual-reset",
+      "title": "the annual reset",
+      "type": "poem",
+      "excerpt": "It’s my favorite, almost like a yearly reset,",
+      "content": [
+        "Spring! The seasons change, and everything feel new,\nSo different from the place where I once grew.\nBack at home, we only had two:\nThe rains came down, and then the dry season blew.\nBut here, it’s a whole new rhythm to know,\nAnd spring is the season that steals the show.\nIt’s my favorite, almost like a yearly reset,\nWhen everything wakes up from winter’s rest.\nLeaves grow back, green against the blue,\nEverything feels fresh like it’s starting anew.\nI love the warmth, the sun’s gentle glow,\nAnd a good rainy day but only if I’m inside, though!\nLately, spring is when I’ve felt most alive,\nA kind of joy that helps me thrive."
+      ]
+    },
+    {
+      "id": "the-infinite-cycle",
+      "title": "the infinite cycle",
+      "type": "poem",
+      "excerpt": "Each forward step feels just the same,",
+      "content": [
+        "The room’s packed, everyone talking,\nI pause, not sure if I should walk in.\nThoughts race through my head:\nWill I fit in? Will I stick out instead?\nI fidget, steadying my breath with care,\nAdjusting my tone, as though unaware.",
+        "But then it hits me, what if they know?\nWhat if I’m trying too hard to show?\nDoubt creeps in, a quiet shout,\nMaybe I should just turn around.\nBut I sigh, push the fear aside,\nStep in, unsure, but here for the ride.",
+        "I settle, uneasy, the pattern persists,\nDoubt returns, my heart resists.\nEach forward step feels just the same,\nA fleeting pause in a timeless game.",
+        "No end, no escape from this eternal spin,\nThe cycle resets as I begin again."
+      ]
+    },
+    {
+      "id": "smile-mask",
+      "title": "smile/mask",
+      "type": "poem",
+      "excerpt": "Am I chasing joy, or running from fear..?",
+      "content": [
+        "What once came naturally now takes its toll,\nEach curve of my lips feels heavy to hold.\nPerhaps a coverup, perhaps a (dis)guise\nBut even masks can tire the eyes.",
+        "\"A smile makes you approachable,\" they say,\nBut forcing one feels like I’m fading away,\nIt feels like a task, a burden to bear,\nA hollow performance, stripped and bare.",
+        "What’s the point if it’s all pretend,\nA fleeting act that won’t defend?\nMy reflection blurs, the truth unclear,\nAm I chasing joy, or running from fear..?"
+      ]
+    },
+    {
+      "id": "does-she-love-me-back",
+      "title": "Does She Love Me Back?",
+      "type": "essay",
+      "label": "personal essay",
+      "year": 2026,
+      "excerpt": "For most of my life, my hair wasn't really mine.",
+      "content": [
+        "Palm rolling, interlocking, locksmithing, and comb coiling.",
+        "These are types of cultivation methods most gardeners use to tend to their garden, or at least this is what I call them now.",
+        "Growing up in an environment that favored artificially manicured lawns rather than what grows from the earth led me to disconnect from nature as a whole. I saw pavements and concrete in my everyday life because they were seen as modern and sophisticated. The places with more exposed natural greens were often neglected and not made to look \"aesthetically pleasing\" to the eye.",
+        "Patewo, All back, Shuku, Shade-Adu, and Koroba",
+        "For most of my life, my hair wasn't really mine. The most personal thing about it to me was the fact that it was growing out of my own scalp. Every other Saturday without fail, braiders would arrive at school, my boarding school, and we'd all line up in front of our preferred braiders to secure time slots throughout the day.",
+        "Hairstyles decided by the school board on a biweekly basis. Even though these are hairstyles made by my people, the association of words such as \"civil\", \"neat\", and \"appropriate\" brutally stemmed from the colonial hangover we all drank from without questioning.",
+        "Nothing too creative, nothing that drew attention. We'd sit for anywhere from forty minutes to an hour with our necks bent at angles that made our shoulders ache, our scalps tender from the pulling. The braiders worked quickly and efficiently, as if we were assignments to complete rather than people to care for. We were quiet and just sat there letting it happen to us.",
+        "I never once thought of my hair as a garden because I was never the one doing the tending. Someone else's hands decided what grew, how it grew, what shape it took. I couldn't develop a relationship with something I had no say over. The maintenance of my hair could be compared to the way you maintain a public lawn. I wasn't aware that hair could be something you care for, something you loved.",
+        "The years I spent at boarding school taught me that hair meant rules, what was “civil,” and what was “appropriate.” Then unexpectedly, I had to unlearn those rules when I crossed the Atlantic Ocean, and all of a sudden, I had new ground to tend to, waiting to see what I might choose to plant. For the first time, there were no restrictions or other people deciding for me. This garden was finally mine.",
+        "December 2021, Winter Break.",
+        "My sister came over to help me part my hair. She'd braided it before, but just regular braids with extensions and nothing permanent, so I trusted her hands. The grid of one’s starter locs decides the overall outcome when they become mature locs. This was something I wasn't necessarily aware of then, and looking back, I wish I had the knowledge then that I do now. My sister and I contemplated the grid for a while before making a decision. This moment felt more wholesome than it may come across because this was one of the few moments someone had asked for my input. My choice.",
+        "My mother took over as soon as the parts were complete and helped me palm roll each section. My mother. My inspiration.",
+        "I adored her locs during the time she had them, which was just over five years. I was infatuated with them and constantly admired them. She made the decision to cut them off due to the desire for a new look, which cannot be blamed. Locs are more or less semi-permanent and can sometimes become rather tiring the longer you keep them in. I adore her just as much now as I did when she had locs, but she was my first exposure to what locs could be.",
+        "Approximately three weeks later, I made the choice to wash my starter locs. This was not the smartest choice because immediately after washing, I looked in the mirror and the sections were barely holding on. My locs were unraveling. I tried my best not to panic. Instead, I dried my wet curls with a towel and walked into my mother’s room with defeat because she previously advised me not to wash it so soon, but I refused to listen.",
+        "The next day, thankfully a weekend, my mom helped me use the instant loc method to reinforce what was left. She tended to each individual loc, rebuilding what I had rushed. After that I had two anniversaries saved in my phone: December 27th, 2021 and January 17th, 2022. These were two start dates for the same garden.",
+        "I still have pictures from that first wash with my hair soaked, locs unraveling but not destroyed. Looking at them now I can see I was still drinking from the same colonial hangover I'd grown up with. The obsession with \"neat\" hair. The fear of anything that looked too natural, too uncontrolled. I was trying to grow my own garden, but simultaneously judging it with someone else’s standards.",
+        "June 2022, Summer Break",
+        "My family had an international trip coming up and this naturally meant looking put together in expectation for things such as family photos to cherish the memories spent together. By this point it had been almost four months since I had properly tended to my garden, or otherwise known as a retwist. She was so voluminous and I often accessorised her by putting cowries and wooden beads, my dream hair. Nevertheless, there was a part of me that desperately wanted the “neatness” back. The orderliness of clean parts, and uniform strands. The part of me that still unintentionally held on to the colonial mindset. I pleaded with my mom to book an appointment with a loctician because I wanted to look my very best on our trip. This was my first time in the chair of a hairstylist since I crossed the Atlantic. I pushed away all the anxiety I had for the sake of getting the professional help I thought I needed. After what felt like forever, the appointment concluded. The loctician put my hair in barrel twists which is a loc style. My head was throbbing. In extreme pain. This was inevitable as going months without maintenance makes one tenderheaded. I just didn't think it'd happen to me since I was well used to the aggression of braiders back home.",
+        "I unraveled the style three days later. Looking back, I realize I was still chasing those colonial standards of sleek, polished and controlled. The same standards that shaped every braid, and every rule back home. I just wasn't aware of how tightly I was holding onto them.",
+        "May 2024, the night before senior prom.",
+        "I stayed up all night in front of my mirror, wrapping synthetic marley hair around each loc. Eight hours were spent twisting, weaving, making them tidy and uniform. The twists draped down my back, beautiful and perfectly neat. Exactly what I thought I wanted. After that, I kept doing them, seasonally, or whenever an event came up and I needed to look \"put together.\" The twists were supposed to protect my locs, a shield against too much touching and retwisting. But my subconscious obsession with neatness impacted the health of my garden negatively.",
+        "Gradually, I started to notice the change. The locs at the perimeter of my head, which are along my hairline, thinned out over time from all the tension I’d put on it. A few of them had become so fragile that I had little to no choice but to comb them out. Combing out a mature loc can take anywhere from forty minutes to more than an hour depending on your technique. I took my time to comb out and restart six locs. Now, starter and mature locs coexist in the same space and this could be considered a journey within a journey. The irony stung. Even as I became my own gardener, I was still pruning and shaping with the same colonial ideals I believed I’d outgrown. This ideology was still brewing inside of me anytime I chose appearance over the health of my hair.",
+        "About six months ago, I stopped retwisting my locs. I truly wanted to see what would happen if I just let them grow according to their own terms. I’m learning to let my garden breathe but I’m starting to fully accept that I still have a long way to go in accepting my hair for the way it naturally is. Sometimes insecurity hits as I compare my garden to others’ gardens and wonder. What if I had a looser hair texture? What if I dyed them back to black? What if I’m starting to outgrow my garden? My precious garden.",
+        "I recently had a job interview a few weeks ago and without second guessing it, I decided to retwist my roots as soon as the date was scheduled. I stood in front of my vanity with hopes of making myself look “professional.” The whole process took about five hours and I got the job. I washed it out about two weeks later. I silently asked myself what I was doing and when I’d stop performing neatness for other people’s comfort.",
+        "The line between the garden I truly desire and the garden other people expect to see is still so blurred to me. This is a constant internal conflict I struggle with. Put together versus natural. Why can't they coexist? Do I need to sacrifice one to have the other? In Braiding Sweetgrass, Robin Wall Kimmerer had an essay titled, Epiphany of Beans and asked this question that made me stop reading to think: Does your garden love you back?",
+        "My garden has been with me for more than four years. She has been with me through self discoveries, the journey of navigating my young adult life, and learning to be comfortable in my own skin. The process of tending to her through all these years has taught me patience, attention to detail and love. Although I’ve made mistakes such as washing too early and installing high tension hairstyles, she has taught me that care isn’t about perfection, it's simply about showing up, learning through trial and error and loving what grows.",
+        "Does my garden love me back?",
+        "I believe she does. I haven't always been the best person to love as I’ve repeatedly tried to make her fit standards that weren't meant for her in the first place but she makes me feel beautiful. There is a slight internal dilemma I’m facing. I sometimes contemplate wanting to start over. I’d cut them all off and begin again with a different technique and method.",
+        "I have been with my locs since I was fifteen years old, she witnessed most of the endeavours I had navigating a foreign country. But it’s slightly more than that because she’s holding onto me and my memories. Hair typically sheds daily when it's loose, during the shower, and simply as one brushes it. Locs on the other hand hold on. Every strand that would've been lost daily is woven in itself. The different versions of myself over the years only exist within my locs.",
+        "Palm rolling, interlocking, locksmithing, comb coiling.",
+        "If I do restart my loc journey in the future, I'd always cherish my first set, my experimental set. Since I possessed limited knowledge of tending to locs initially, I experimented with all the loc maintenance techniques listed above and became quite skilled at them. I believe this is the final form of reciprocity. My garden has given me the knowledge I need to be a better gardener in the future. Starting over my loc journey would mean letting go of something that has been growing with me. I’ve built such an emotional bond to my garden and that’s why it's hard to admit it might not be what I want anymore."
+      ]
+    },
+    {
+      "id": "frida-kahlo-self-portrayal-through-still-life",
+      "title": "Frida Kahlo Self-Portrayal through Still-Life: More than just a Mirror",
+      "type": "essay",
+      "label": "art writing",
+      "year": 2025,
+      "excerpt": "But the theory I would like to offer is that she still painted herself even when she was not there in person.",
+      "content": [
+        "When one thinks of Frida Kahlo, it is mostly her remarkable self-portraits, her unflinching demeanor, and the well-known unibrow that are the most characteristic that one relates to. Nevertheless, still-life painting is another element of Kahlo’s art that is equally as significant as her self-portraits. I realized that the art pieces with flowers, fruits, and the rest of the objects are just as symbolic as the ones of her face and body in terms of telling a 'self-portrait' narration. Kahlo once said, \"I paint myself because I am so often alone and because I am the subject I know best.\" This statement is generally taken too literally, indicating that the content of her self-portraits is the explanation in the primary sense of the sentence. But the theory I would like to offer is that she still painted herself even when she was not there in person. Through my research, I found that Kahlo’s still-life works are another method of self-portrayal, whereby she uses objects that symbolize her pain, cultural identity, or inner experiences instead of her own body. These works, together with her physical self-portraits, reveal how this ‘Iconic Woman in Latin America’ used art to tell her varied identity story in post-revolutionary Mexico. In essence, Kahlo’s still lifes are as much a mirror to her soul as her celebrated self-portraits.",
+        "Frida Kahlo's career as an artist was not something that she first chose; it was the result of an unexpected calamity. She was born in Coyoacan, Mexico City on the 6th of June 1907 and was the third daughter of Wilhelm Kahlo and Matilde Calderón y González, where she had many early-life physical challenges to meet. At the age of six, she caught polio, which made her bedridden for nine months, and she had a permanent limp. Then, at 18 years old, she had a severe bus accident that changed her life forever. While the bus was in direct collision with a streetcar, an iron handrail went through her hip, fractured her spine, and the pain became unbearable. For several months, Kahlo was stuck in a body cast to heal her body physically, relying on others for help. These were the experiences that made her art about the new ways of exploring her inner self. The suffering and trouble of her body did not become just some angles of her biography; they became the subject of her art. One of the ways that she could have gotten away from these feelings was through denial, or she could have done it by consuming other activities. However, she decided to represent these emotions with her art, which was the whole point of her decision (“Frida Kahlo Biography”).",
+        "First, it is important to consider Kahlo's self-portraits and what they show about the artist herself before going over her still-lifes. Hayden Herrera notes that Kahlo sought \"perhaps she wanted to give the fragmented, the chaotic, and the ephemeral a wholeness, order…\" through her art (Herrera,114). Her narratives of self-portraits are done by the objects she takes care to select, along with her still-lifes, and are her images. She searches for what is essential and of the best representation for her; she uses them and specifically makes a depiction that symbolizes not only her life but also her feelings. When one first sees Kahlo’s art, one could assume that she’s almost self-obsessed or even reveals symptoms of narcissism through the numerous appearances of herself in the self-portraits. However, as Kandace Steadman and Ande Cook observe, \"Repetition occurs in Kahlo's art not only in terms of the theme of the self-portrait but also in terms of several visual elements\" (Steadman, Cook, 2). Her art pieces are representative of her soul and body pain, constantly, as they include such symbols as hummingbirds, monkeys, and the local artifacts. Nevertheless, the way she included herself again and again in her works was her response to the pain she encountered.",
+        "However, Kahlo’s non-self-portraits are equally potent representations of herself. Salomon Grimberg argues that her still lifes are \"as reflective of her internal reality as are her self-portraits\" (25). In the painting Magnolias (1945), she transforms something as simple as magnolias into something imbued with human characteristics and emotions. Kahlo is said to have started this painting after her friend left Mexico; the symbol of the loss and separation is the meaning behind this work. This shows how Kahlo can convey such emotions without physically painting herself and her friend explicitly. Magnolias are said to represent dignity, beauty, and women’s charms. These could signify what characteristics Kahlo admired about her friend and what she was going to miss about her.",
+        "According to Grimberg’s article, by naming his work \"Frida Kahlo's Still Lifes: 'I Paint Flowers So They Will Not Die,'\" the artist used Kahlo’s words as a title. The phrase is an illustration of the method adopted by Kahlo of using still lifes as an alternative self-portrait, by which she turned mundane things into emblems of her inner world. In the same way that her self-portraits depicted her physical pain, her still lifes preserved her anxiety of being forgotten and her quest for permanence. If we take the information as an illustration of Magnolias, it can be concluded that she was making an attempt not to forget the memories of her friend, and also we can relate it to the quote literally.",
+        "Two of the many paintings exemplifying Kahlo's allegorical storytelling are Self-Portrait with Thorn Necklace and Hummingbird (1940) and The Flower Basket (1941). As for The Flower Basket, the basket is, of course, mainly the flowers, which represent the Mexican culture that played a very important role in the life of the artist. Salomon Grimberg explains, \"In the absence of Kahlo's image as matter, the hummingbird is the artist's symbol of her feelings, and it is clear that the celestial objects can also carry human emotions\" (Frida Kahlo: The Still Lifes, 78). The bird represents more than an image; it carries Kahlo’s emotional disturbance.",
+        "The Flower Basket was painted a year later, after the reconciliation of Kahlo and Rivera. The hummingbird is vibrant and soaring, alive and in flight as a symbol of their renewed relationship (Grimberg,(“The Still Lifes”) 82). The flowers reinforce the idea of love and happiness. Through the symbols, Kahlo not only captures the transitions in her relationships but also reflects her emotional and physical states, illustrating how the objects in her still-life works become visual metaphors of her inner experiences.",
+        "Hayden Herrera claims that Kahlo’s self-portraits are a \"visual diary,\" demonstrating through them her inner world and personal experiences (Herrera). Features of a diary are seen not only in the artist's self-portraits but also in her still lifes, where various objects are symbols of her emotions, memories, and identity. Not only is the hummingbird's beak in Self-Portrait with Thorn Necklace and Hummingbird a metaphor of Kahlo's inner conflict due to her separation from Diego Rivera, but also the bird itself. That is to say, the bird also became a symbol of new life and renewed love, which signified the rekindling of the Kahlo-Rivera relationship.",
+        "Another example of her still-life symbolism is I Belong to My Owner (1937), which demonstrates the way Kahlo explored ownership, identity, and death. Kahlo’s message about being owned by her own body, feeling trapped inside it, is symbolized by a clay pitcher with the words \"I Belong to my Owner.\" Grimberg claims the marigolds symbolize death, the flower forever connected with mortality and the spirits (Grimberg (“I Paint Flowers So They Will Not Die.”)27). Through the use of amaranth for immortality and thistles for dual protection and curse, Kahlo’s painting reflects her battles with illness, loneliness, and her resilient spirit. Her still lifes serve as her diary, revealing her struggle to transcend her physical and emotional pain.",
+        "Similarly, my artwork serves as a form of symbolic self-portraiture. In a drawing I created, a camera is depicted as a way of representing a significant period of my life. Like a mute camera, I was more of an observer than a participant in life when I moved to the US for the first time. I was like a silent camera, merely recording scenes. I watched the way people spoke, gesticulated, and interacted, and repeatedly played back these moments in my head like a film to understand and fit in. The camera lens, as a reflective but non-disclosing tool, represents my inner self, contiguous and yet not wholly perceptible. Like Kahlo, I used objects rather than my physical face to tell my story. My drawing depicts part of my emotional journey using the symbols, which is an illustration of how the self-portrait exists without its traditional form.",
+        "To conclude, Frida Kahlo, despite the attention that her self-portraits get, deserves equal acclaim for her still-life works. Through a wise choice of position and selection of symbolic objects, Kahlo broadens her self-portraiture to the realm of the symbolic, hence enabling her to transfer through her art the facets of her personality that can not be rendered only in the form of a picture. In her work, as she represents her body or works with symbolic objects, Kahlo brilliantly intertwines her personal history, her sufferings, and her cultural identity into a visual narrative that firmly establishes her as an iconic and intensely passionate artist of her time. My still-life art journey, in whatever form, tells the same story that by symbols, memories, and metaphors, our identities can be found while we are invisible, thus we can still share our stories.",
+        "Work Cited",
+        "Frida Kahlo. Flower Basket. 1938. Oil on canvas. Kahlo.org. Accessed 27 Apr. 2025.",
+        "Frida Kahlo. I Belong to My Owner. 1937. Oil on canvas. Frida's Photos. Accessed 27 Apr. 2025.",
+        "Frida Kahlo. Magnolias. 1945. Oil on masonite. Balbina Azcárraga Collection, Mexico City. WikiArt. Accessed 27 Apr. 2025.",
+        "Frida Kahlo. Self-Portrait with Thorn Necklace and Hummingbird. 1940. Oil on canvas. FridaKahlo.org. Accessed 27 Apr. 2025.",
+        "“Frida Kahlo Biography.” Frida Kahlo. Accessed 13 Apr. 2025.",
+        "Grimberg, Salomón. “Frida Kahlo’s Still Lifes: ‘I Paint Flowers So They Will Not Die.’” Woman’s Art Journal, vol. 25, no. 2, 2004, pp. 25–30. JSTOR. Accessed 15 Mar. 2025.",
+        "Herrera, Hayden. Frida Kahlo: The Still Lifes. Merrell, 2008.",
+        "Herrera, Hayden. “Frida Kahlo: Life into Art.” The Seductions of Biography, edited by Mary Rhiel and David Suchoff, Routledge, 2016, pp. 35–52.",
+        "Steadman, Kandace, and Ande Cook. “Frida Kahlo: A Self-Proclaiming Self-Portrait Artist.” School Arts, vol. 95, no. 5, Jan. 1996, pp. 22+. Gale Academic OneFile. Accessed 14 Mar. 2025."
+      ]
+    }
+  ]
 }
