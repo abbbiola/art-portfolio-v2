@@ -1,1 +1,156 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <meta name="description" content="The digital archive of Abiola Oyefule: paintings, drawings, and writing.">
+  <title>abiola oyefule — digital archive</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Crimson+Text:ital,wght@0,400;0,600;1,400&family=Inter:wght@400;500;600&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style.css">
+  <script src="script.js" defer></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">skip to content</a>
 
+  <!-- Replace the signature text with your exported FlipaClip image later.
+       Keep this wrapper; script.js controls its brief initial appearance. -->
+  <div id="loader" class="loader" hidden aria-hidden="true">
+    <span class="signature">abiola oyefule</span>
+  </div>
+
+  <header class="site-header shell">
+    <a class="name" href="#paintings">abiola oyefule</a>
+    <nav aria-label="Main navigation">
+      <a href="#paintings" aria-current="page">paintings</a>
+      <a href="#drawings">drawings</a>
+      <a href="#writing">writing</a>
+      <a href="#about">about</a>
+    </nav>
+  </header>
+
+  <main id="main" class="shell" tabindex="-1">
+    <div id="intro" class="intro">
+      <p class="eyebrow">digital archive</p>
+      <h1>looking closely at the things we notice, the things we miss, and everything in between.</h1>
+      <p>A collection of paintings, drawings, and writing exploring perception, imperfection, identity, observation, and the moments that stay with me.</p>
+      <!-- Optional personal graphic near the intro can go here. -->
+    </div>
+
+    <div id="load-status" class="load-status" role="status">
+      <p id="load-message">Loading the archive…</p>
+      <button id="retry" type="button" hidden>try again</button>
+    </div>
+    <noscript><p>Please enable JavaScript to view the artwork and writing archive.</p></noscript>
+
+    <section id="paintings" class="page" aria-labelledby="paintings-title">
+      <div class="section-heading">
+        <h2 id="paintings-title" tabindex="-1">paintings</h2>
+        <span class="count"></span>
+      </div>
+      <div class="art-controls">
+        <label>
+          medium
+          <select class="medium" aria-label="Filter paintings by medium">
+            <option value="all">all mediums</option>
+          </select>
+        </label>
+        <label>
+          sort
+          <select class="sort" aria-label="Sort paintings">
+            <option value="newest">newest</option>
+            <option value="oldest">oldest</option>
+            <option value="az">A–Z</option>
+          </select>
+        </label>
+      </div>
+      <div class="art-list"></div>
+    </section>
+
+    <section id="drawings" class="page" aria-labelledby="drawings-title" hidden>
+      <div class="section-heading">
+        <h2 id="drawings-title" tabindex="-1">drawings</h2>
+        <span class="count"></span>
+      </div>
+      <div class="art-controls">
+        <label>
+          medium
+          <select class="medium" aria-label="Filter drawings by medium">
+            <option value="all">all mediums</option>
+          </select>
+        </label>
+        <label>
+          sort
+          <select class="sort" aria-label="Sort drawings">
+            <option value="newest">newest</option>
+            <option value="oldest">oldest</option>
+            <option value="az">A–Z</option>
+          </select>
+        </label>
+      </div>
+      <div class="art-list"></div>
+    </section>
+
+    <section id="writing" class="page writing-page" aria-labelledby="writing-title" hidden>
+      <div id="writing-index">
+        <div class="section-heading">
+          <h2 id="writing-title" tabindex="-1">writing</h2>
+        </div>
+        <!-- Optional personal graphic beside the Writing heading goes here. -->
+        <p class="section-note">poetry &amp; essays</p>
+        <div class="writing-filters" role="group" aria-label="Filter writing">
+          <button type="button" data-type="all" aria-pressed="true">all</button>
+          <button type="button" data-type="poem" aria-pressed="false">poetry</button>
+          <button type="button" data-type="essay" aria-pressed="false">essays</button>
+        </div>
+        <div id="writing-list"></div>
+      </div>
+
+      <article id="reading-view" class="reading-view" hidden>
+        <button id="back-to-writing" type="button">← back to writing</button>
+        <p id="reading-meta" class="metadata"></p>
+        <h2 id="reading-title" tabindex="-1"></h2>
+        <div id="reading-content"></div>
+      </article>
+    </section>
+
+    <section id="about" class="page about-page" aria-labelledby="about-title" hidden>
+      <p class="eyebrow">a little about me</p>
+      <h2 id="about-title" tabindex="-1">Hi, my name is Abiola.</h2>
+      <!-- Optional personal graphic near the artist statement goes here. -->
+      <p class="artist-statement">Hi, my name is Abiola. I'm a visual artist &amp; this is my digital art portfolio! My pieces tend to explore themes like perception, imperfection, and identity. I usually work in charcoal and acrylics. A lot of my work comes from observation. After moving to the U.S., I became very aware of how I existed in spaces; sometimes visible, sometimes unnoticed. Drawing became a way for me to slow down and understand those moments. I'm especially drawn to the human form, because posture, light, and stillness can reveal things that words often cannot.</p>
+      <a class="contact" href="mailto:abiolaoyefule@gmail.com">abiolaoyefule@gmail.com</a>
+    </section>
+  </main>
+
+  <footer class="site-footer shell">
+    <!-- Optional personal graphic near the footer goes here. -->
+    <p>© 2026 abiola oyefule</p>
+    <p>made w/ love, art &amp; beginner coding skills</p>
+  </footer>
+
+  <!-- Native dialog contains keyboard focus and makes the page behind it inert. -->
+  <dialog id="viewer" class="viewer" aria-labelledby="viewer-title">
+    <div class="viewer-panel">
+      <div class="viewer-toolbar">
+        <span id="viewer-position" class="metadata"></span>
+        <button id="viewer-close" type="button" autofocus>close ×</button>
+      </div>
+
+      <div id="viewer-image" class="viewer-image"></div>
+
+      <div class="viewer-bottom">
+        <button id="viewer-prev" type="button" aria-label="Previous artwork">←</button>
+        <div class="viewer-caption" aria-live="polite" aria-atomic="true">
+          <h2 id="viewer-title"></h2>
+          <p id="viewer-meta" class="metadata"></p>
+        </div>
+        <button id="viewer-next" type="button" aria-label="Next artwork">→</button>
+      </div>
+
+      <p id="viewer-description" class="viewer-description" tabindex="0" aria-label="Artwork description" hidden></p>
+    </div>
+  </dialog>
+</body>
+</html>
