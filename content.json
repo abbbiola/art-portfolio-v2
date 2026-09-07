@@ -1,1 +1,174 @@
-
+{
+  "artworks": {
+    "paintings": [
+      {
+        "id": "complementary-sunflowers-and-lavenders",
+        "title": "complementary (sunflowers and lavenders)",
+        "category": "paintings",
+        "medium": "acrylic on canvas",
+        "year": 2025,
+        "dimensions": "",
+        "image": "images/sunflowerlavender.jpg",
+        "alt": "Acrylic painting of sunflowers and lavenders on a red background, painted in an impressionist style to suggest connection and meaning.",
+        "description": "I tend to think about how objects like flowers, colours, or even small gestures can carry meaning between people. Lavenders are something I've always adored, and the sunflowers are tied to someone important to me. The red background felt like the right way to hold both things together. This was also one of my first times working in an impressionist style, which is really about letting go of details and focusing more on how something feels than how it looks. In other words, making artistic suggestions of what is seen."
+      },
+      {
+        "id": "cracked-fruit-bowl",
+        "title": "cracked (fruit bowl)",
+        "category": "paintings",
+        "medium": "fresco attached to wood",
+        "year": 2023,
+        "dimensions": "",
+        "image": "images/fruit bowl.JPG",
+        "alt": "Fresco painting of a fruit bowl attached to wood, featuring soft colors and a simple arrangement.",
+        "description": "This piece explores the theme of fragility and impermanence. The cracked surface of the fruit bowl serves as a metaphor for the passage of time and the inevitability of change. I wanted to capture the beauty in these imperfections, reminding us that even in our brokenness, there is still value and meaning."
+      },
+      {
+        "id": "last-light",
+        "title": "last light",
+        "category": "paintings",
+        "medium": "acrylic on canvas",
+        "year": 2024,
+        "dimensions": "",
+        "image": "images/sunset.jpg",
+        "alt": "Acrylic painting titled 'last light' showing a peaceful sunset with warm, blended colors symbolizing quiet endings.",
+        "description": "I made this when I was learning to let go of old habits or outgrown friendships. Endings don't always have to be dramatic or climatic. They can be silent and sort of peaceful? This was my way of being at peace with it."
+      },
+      {
+        "id": "lotus",
+        "title": "lotus",
+        "category": "paintings",
+        "medium": "acrylic on canvas",
+        "year": 2022,
+        "dimensions": "",
+        "image": "images/lotus.jpg",
+        "alt": "Acrylic painting of a lotus flower floating on water, symbolizing resilience and quiet strength.",
+        "description": "The lotus is one of my favourite flowers and is a symbol of resilience for me. It grows in muddy water but still blooms beautifully above the surface. I painted this during a time when I needed to remind myself that growth can happen even in difficult circumstances. The soft colors and gentle ripples are meant to evoke a sense of quiet strength and hope."
+      },
+      {
+        "id": "soft-bloom",
+        "title": "soft bloom",
+        "category": "paintings",
+        "medium": "oil on canvas",
+        "year": 2024,
+        "dimensions": "",
+        "image": "images/lily.JPG",
+        "alt": "Oil painting titled 'soft bloom' featuring a delicate lily in soft spring colors, representing renewal and uncertainty.",
+        "description": "This piece was done in the spring, usually my favourite season. It's when things tend to start over to me, when everything, including nature, wakes up. But that year, I didn't feel any of that. I felt stuck, even as the world around me bloomed. I was unsure if the \"reset\" would ever happen. This painting was done solely on that feeling."
+      }
+    ],
+    "drawings": [
+      {
+        "id": "bermuda-in-passing",
+        "title": "bermuda in passing",
+        "category": "drawings",
+        "medium": "charcoal on paper",
+        "year": 2023,
+        "dimensions": "",
+        "image": "images/bermuda in passing.jpg",
+        "alt": "Charcoal sketch of Bermuda landscape, drawn quickly from a moving vehicle to capture a fleeting moment.",
+        "description": "I made this while on a tour of the island, my sketchbook balanced on my lap, and charcoal smudging under my fingers as the island moved past. It wasn't a planned piece, more like a passing moment I felt the need to capture before it disappeared."
+      },
+      {
+        "id": "identity-stripes",
+        "title": "identity stripes",
+        "category": "drawings",
+        "medium": "chalk pastel on paper",
+        "year": 2023,
+        "dimensions": "",
+        "image": "images/zebra.JPG",
+        "alt": "Chalk pastel drawing of a zebra, symbolizing blurred identity and cultural adaptation.",
+        "description": "This piece started with a pronunciation debate: \"zeh-bruh\" vs \"zee-bruh.\" It reminded me of how much I had to relearn after moving countries. Zebra stripes blur into each other, and so do the different parts of my identity."
+      },
+      {
+        "id": "panda",
+        "title": "panda",
+        "category": "drawings",
+        "medium": "charcoal on paper",
+        "year": 2025,
+        "dimensions": "",
+        "image": "images/panda.jpg",
+        "alt": "Charcoal drawing of a panda, rendered in a soft impressionist style to convey gentleness.",
+        "description": "This was a fun piece to do. I wanted to capture the panda's gentle nature with my version of impressionism without focusing on too much detail, keeping it soft and loose."
+      },
+      {
+        "id": "pears-study",
+        "title": "pears study",
+        "category": "drawings",
+        "medium": "charcoal on paper",
+        "year": 2023,
+        "dimensions": "",
+        "image": "images/pears.jpg",
+        "alt": "Charcoal drawing of two pears, focusing on soft shading and gentle highlights.",
+        "description": "A simple study of two pears. I wanted to practice soft shading and gentle highlights, keeping the composition quiet and understated."
+      },
+      {
+        "id": "pineapple-study",
+        "title": "pineapple study",
+        "category": "drawings",
+        "medium": "charcoal on paper",
+        "year": 2023,
+        "dimensions": "",
+        "image": "images/pineapple.jpg",
+        "alt": "Charcoal study of a pineapple, focusing on texture and light.",
+        "description": ""
+      },
+      {
+        "id": "retina",
+        "title": "retina",
+        "category": "drawings",
+        "medium": "charcoal on paper",
+        "year": 2025,
+        "dimensions": "",
+        "image": "images/lovers eye.jpg",
+        "alt": "Charcoal drawing of a single eye.",
+        "description": "This is a charcoal drawing of the eye of someone I care deeply about. I focused on capturing the details like the lashes, the light in the iris—because those are the things that stayed with me. The rest of the piece is looser, more impressionistic, which felt right."
+      },
+      {
+        "id": "sundae-in-a-cup",
+        "title": "sundae in a cup?",
+        "category": "drawings",
+        "medium": "colour pencil on paper",
+        "year": 2023,
+        "dimensions": "",
+        "image": "images/icecream glass.jpg",
+        "alt": "Colour pencil drawing of a glass with ice cream sundae, focusing on reflections and transparency.",
+        "description": "A study of glass and reflections. I wanted to practice capturing transparency and the way light bends through curved surfaces. I'm not quite sure what's in the glass cup but there were so many elements which were fun to draw! I added a 'messy' pencil background to make the main subject stand out."
+      },
+      {
+        "id": "the-observer",
+        "title": "the observer",
+        "category": "drawings",
+        "medium": "charcoal on paper",
+        "year": 2023,
+        "dimensions": "",
+        "image": "images/camera.JPG",
+        "alt": "Charcoal drawing titled 'the observer' showing a camera as a metaphor for quiet observation and adaptation.",
+        "description": "This piece reflects the time when I first moved to America and felt the need to blend in. I became quiet for the first few years, intentionally watching like a camera capturing moments. I studied how people spoke, moved, and interacted, then replayed those moments in my head at home, practicing how to fit in. This drawing is a tribute to that version of me, the one who observed to adapt, to belong."
+      },
+      {
+        "id": "what-remains",
+        "title": "what remains",
+        "category": "drawings",
+        "medium": "charcoal on paper",
+        "year": 2024,
+        "dimensions": "",
+        "image": "images/skull.JPG",
+        "alt": "Charcoal drawing of a human skull, exploring shared human foundations and technical rendering.",
+        "description": "Honestly, I chose the skull as a subject partly because I really wanted to push my rendering skills; getting those technical details and the way light and shadow play across bone is something I very much enjoy. But the more time I spent on it, the more I couldn't help but notice how I felt towards it. What remains is a reminder of how we all have a shared foundation no matter how different we may appear on the outside. We all return to this fundamental structure at the end."
+      },
+      {
+        "id": "untitled-study",
+        "title": "untitled study",
+        "category": "drawings",
+        "medium": "white charcoal on black paper",
+        "year": 2023,
+        "dimensions": "",
+        "image": "images/gesture.jpg",
+        "alt": "White charcoal gesture study on black paper, capturing movement and form.",
+        "description": ""
+      }
+    ]
+  },
+  "writing": []
+}
