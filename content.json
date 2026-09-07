@@ -8,9 +8,9 @@
         "medium": "acrylic on canvas",
         "year": 2025,
         "dimensions": "",
-        "image": "images/sunflowerlavender.jpg",
-        "alt": "Acrylic painting of sunflowers and lavenders on a red background, painted in an impressionist style to suggest connection and meaning.",
-        "description": "I tend to think about how objects like flowers, colours, or even small gestures can carry meaning between people. Lavenders are something I've always adored, and the sunflowers are tied to someone important to me. The red background felt like the right way to hold both things together. This was also one of my first times working in an impressionist style, which is really about letting go of details and focusing more on how something feels than how it looks. In other words, making artistic suggestions of what is seen."
+        "image": "images/sunflowerlavender.jpeg",
+        "alt": "acrylic painting of sunflowers and lavenders on a red background, painted in an impressionist style to suggest connection and meaning.",
+        "description": "i tend to think about how objects like flowers, colours, or even small gestures can carry meaning between people. Lavenders are something i've always adored, and the sunflowers are tied to someone important to me. the red background felt like the right way to hold both things together. this was also one of my first times working in an impressionist style, which is really about letting go of details and focusing more on how something feels than how it looks. in other words, making artistic suggestions of what is seen."
       },
       {
         "id": "cracked-fruit-bowl",
@@ -19,9 +19,9 @@
         "medium": "fresco attached to wood",
         "year": 2023,
         "dimensions": "",
-        "image": "images/fruit bowl.JPG",
-        "alt": "Fresco painting of a fruit bowl attached to wood, featuring soft colors and a simple arrangement.",
-        "description": "This piece explores the theme of fragility and impermanence. The cracked surface of the fruit bowl serves as a metaphor for the passage of time and the inevitability of change. I wanted to capture the beauty in these imperfections, reminding us that even in our brokenness, there is still value and meaning."
+        "image": "images/fruitbowl.jpeg",
+        "alt": "fresco painting of a fruit bowl attached to wood, featuring soft colors and a simple arrangement.",
+        "description": "this piece explores the theme of fragility and impermanence. the cracked surface of the fruit bowl serves as a metaphor for the passage of time and the inevitability of change. i wanted to capture the beauty in these imperfections, reminding us that even in our brokenness, there is still value and meaning."
       },
       {
         "id": "last-light",
@@ -30,9 +30,9 @@
         "medium": "acrylic on canvas",
         "year": 2024,
         "dimensions": "",
-        "image": "images/sunset.jpg",
-        "alt": "Acrylic painting titled 'last light' showing a peaceful sunset with warm, blended colors symbolizing quiet endings.",
-        "description": "I made this when I was learning to let go of old habits or outgrown friendships. Endings don't always have to be dramatic or climatic. They can be silent and sort of peaceful? This was my way of being at peace with it."
+        "image": "images/sunset.jpeg",
+        "alt": "acrylic painting titled 'last light' showing a peaceful sunset with warm, blended colors symbolizing quiet endings.",
+        "description": "i made this when i was learning to let go of old habits or outgrown friendships. endings don't always have to be dramatic or climatic. they can be silent and sort of peaceful? This was my way of being at peace with it."
       },
       {
         "id": "lotus",
@@ -108,21 +108,21 @@
         "category": "drawings",
         "medium": "charcoal on paper",
         "year": 2023,
-        "dimensions": "",
-        "image": "images/pineapple.jpg",
+        "dimensions": "9x12",
+        "image": "images/pineapple.jpeg",
         "alt": "Charcoal study of a pineapple, focusing on texture and light.",
         "description": ""
       },
       {
         "id": "retina",
-        "title": "retina",
+        "title": "lover's eye",
         "category": "drawings",
         "medium": "charcoal on paper",
         "year": 2025,
-        "dimensions": "",
-        "image": "images/lovers eye.jpg",
+        "dimensions": "5x7",
+        "image": "images/lovers_eye.jpeg",
         "alt": "Charcoal drawing of a single eye.",
-        "description": "This is a charcoal drawing of the eye of someone I care deeply about. I focused on capturing the details like the lashes, the light in the iris—because those are the things that stayed with me. The rest of the piece is looser, more impressionistic, which felt right."
+        "description": "This is a charcoal drawing of the eye of someone I cared deeply about. I focused on capturing the details like the lashes, the light in the iris—because those are the things that stayed with me. The rest of the piece is looser, more impressionistic, which felt right."
       },
       {
         "id": "sundae-in-a-cup",
@@ -130,8 +130,8 @@
         "category": "drawings",
         "medium": "colour pencil on paper",
         "year": 2023,
-        "dimensions": "",
-        "image": "images/icecream glass.jpg",
+        "dimensions": "9x12",
+        "image": "images/icecream_glass.jpeg",
         "alt": "Colour pencil drawing of a glass with ice cream sundae, focusing on reflections and transparency.",
         "description": "A study of glass and reflections. I wanted to practice capturing transparency and the way light bends through curved surfaces. I'm not quite sure what's in the glass cup but there were so many elements which were fun to draw! I added a 'messy' pencil background to make the main subject stand out."
       },
@@ -141,9 +141,9 @@
         "category": "drawings",
         "medium": "charcoal on paper",
         "year": 2023,
-        "dimensions": "",
-        "image": "images/camera.JPG",
-        "alt": "Charcoal drawing titled 'the observer' showing a camera as a metaphor for quiet observation and adaptation.",
+        "dimensions": "11x14",
+        "image": "images/camera.jpeg",
+        "alt": "charcoal drawing titled 'the observer' showing a camera as a metaphor for quiet observation and adaptation.",
         "description": "This piece reflects the time when I first moved to America and felt the need to blend in. I became quiet for the first few years, intentionally watching like a camera capturing moments. I studied how people spoke, moved, and interacted, then replayed those moments in my head at home, practicing how to fit in. This drawing is a tribute to that version of me, the one who observed to adapt, to belong."
       },
       {
@@ -167,7 +167,195 @@
         "image": "images/gesture.jpg",
         "alt": "White charcoal gesture study on black paper, capturing movement and form.",
         "description": ""
-      }
+      },
+        {
+  "id": "afro",
+  "title": "mother tongue",
+  "category": "drawings",
+  "medium": "charcoal on paper",
+  "year": 2025,
+  "dimensions": "8x10",
+  "image": "images/afro.jpeg",
+  "alt": "a detailed charcoal drawing of a Black figure with a large afro, head tilted back and eyes closed against a dark background.",
+  "description": "the figure is looking upward, eyes closed. there's something about a face tilted back that feels unguarded. the afro takes up most of the frame intentionally. mother tongue is about the parts of identity that just come with you which are the things you carry without having to think about them, that don't need explaining."
+},
+      {
+  "id": "apple",
+  "title": "apple study",
+  "category": "drawings",
+  "medium": "graphite on paper",
+  "year": 2023,
+  "dimensions": "5x7",
+  "image": "images/apple.jpeg",
+  "alt": "graphite drawing of a round apple with a curved stem and overlapping leaves, rendered with soft shading and a dark cast shadow beneath it.",
+  "description": ""
+}
+      {
+  "id": "back",
+  "title": "ascension",
+  "category": "drawings",
+  "medium": "charcoal on paper",
+  "year": 2025,
+  "dimensions": "8x10",
+  "image": "images/back.jpeg",
+  "alt": "a detailed charcoal drawing of a Black figure seen from behind, braids pinned at the top of the head, with dramatic light radiating from behind and strong muscle definition across the back and shoulders.",
+  "description": "i mostly made this because i wanted to study the back. there's so much to work with; the muscles, the shadows, the small shifts in posture. without a face to anchor everything, i had to pay closer attention to the body itself and what it could communicate through light and form alone. i was surprised by how much it could say."
+},
+      {
+  "id": "bangs",
+  "title": "graphite study",
+  "category": "drawings",
+  "medium": "graphite on paper",
+  "year": 2023,
+  "dimensions": "8x10",
+  "image": "images/bangs.jpeg",
+  "alt": "A detailed pencil portrait of a young woman with dark shoulder-length hair and bangs, a nose ring, hoop earrings, and a beauty mark, looking directly at the viewer.",
+  "description": ""
+},
+      {
+  "id": "bowls",
+  "title": "ceramics study",
+  "category": "drawings",
+  "medium": "charcoal on paper",
+  "year": 2026,
+  "dimensions": "8x10",
+  "image": "images/bowls.jpeg",
+  "alt": "A charcoal still life of three ceramic vessels on a surface — a short wide jar on the left, a tall narrow-necked vase in the center, and a small bowl on the right, with soft shadows and light background",
+  "description": ""
+},
+      {
+  "id": "butterfly",
+  "title": "briefly (fingers study)",
+  "category": "drawings",
+  "medium": "graphite on paer",
+  "year": 2023,
+  "dimensions": "5x7",
+  "image": "images/butterfly.jpeg",
+  "alt": "A detailed charcoal drawing of a butterfly perched on the tip of a finger, wings open, with a gradient from light to dark in the background",
+  "description": ""
+},
+      {
+  "id": "cubism",
+  "title": "cubism reimagined",
+  "category": "drawings",
+  "medium": "charcoal and arcylic on paper",
+  "year": 2023,
+  "dimensions": "9x12",
+  "image": "images/cubism.jpeg",
+  "alt": "A charcoal still life of geometric forms — a cylinder, cone, cube, and sphere arranged on a rectangular pedestal against a dark background",
+  "description": ""
+},
+      {
+  "id": "eye-reflection",
+  "title": "second glance (a study)",
+  "category": "drawings",
+  "medium": "charcoal on paper",
+  "year": 2023,
+  "dimensions": "8x10",
+  "image": "images/eye_reflection.jpeg",
+  "alt": "A highly detailed charcoal close-up of a single eye with long lashes, a light reflection visible in the iris, and tears forming along the lower lash line.",
+  "description": ""
+},
+      {
+  "id": "hand-reaching",
+  "title": "almost",
+  "category": "drawings",
+  "medium": "sratchboard",
+  "year": 2026,
+  "dimensions": "8x10",
+  "image": "images/hand_reaching.jpeg",
+  "alt": "A white-on-black drawing of a hand emerging from darkness, fingers spread and slightly curled, with a ring on one finger and fine detailed linework throughout.",
+  "description": ""
+},
+      {
+  "id": "",
+  "title": "",
+  "category": "drawings",
+  "medium": "",
+  "year": 2026,
+  "dimensions": "",
+  "image": "images/",
+  "alt": "",
+  "description": ""
+},
+        {
+  "id": "",
+  "title": "",
+  "category": "drawings",
+  "medium": "",
+  "year": 2026,
+  "dimensions": "",
+  "image": "images/",
+  "alt": "",
+  "description": ""
+},
+        {
+  "id": "",
+  "title": "",
+  "category": "drawings",
+  "medium": "",
+  "year": 2026,
+  "dimensions": "",
+  "image": "images/",
+  "alt": "",
+  "description": ""
+},
+        {
+  "id": "",
+  "title": "",
+  "category": "drawings",
+  "medium": "",
+  "year": 2026,
+  "dimensions": "",
+  "image": "images/",
+  "alt": "",
+  "description": ""
+},
+        {
+  "id": "",
+  "title": "",
+  "category": "drawings",
+  "medium": "",
+  "year": 2026,
+  "dimensions": "",
+  "image": "images/",
+  "alt": "",
+  "description": ""
+},
+        {
+  "id": "",
+  "title": "",
+  "category": "drawings",
+  "medium": "",
+  "year": 2026,
+  "dimensions": "",
+  "image": "images/",
+  "alt": "",
+  "description": ""
+},
+        {
+  "id": "",
+  "title": "",
+  "category": "drawings",
+  "medium": "",
+  "year": 2026,
+  "dimensions": "",
+  "image": "images/",
+  "alt": "",
+  "description": ""
+},
+        {
+  "id": "",
+  "title": "",
+  "category": "drawings",
+  "medium": "",
+  "year": 2026,
+  "dimensions": "",
+  "image": "images/",
+  "alt": "",
+  "description": ""
+},
+      
     ]
   },
   "writing": []
