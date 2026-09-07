@@ -753,3 +753,82 @@ nav a {
     font-size: 22px;
   }
 }
+
+/* =========================================================
+   VIEWER SWIPE PREP — slide only, no fading
+   script.js will use these classes for the actual gesture.
+   ========================================================= */
+
+.viewer-image {
+  position: relative;
+  overflow: hidden;
+  touch-action: pan-y;
+  overscroll-behavior-x: contain;
+}
+
+/* Prevent browser image-drag behavior from fighting touch gestures. */
+.viewer-image img {
+  user-select: none;
+  -webkit-user-select: none;
+  -webkit-user-drag: none;
+}
+
+/* Future 3-slide track: previous / current / next. */
+.viewer-track {
+  display: flex;
+  width: 300%;
+  transform: translate3d(-33.333333%, 0, 0);
+  transition: transform 280ms cubic-bezier(.22, .61, .36, 1);
+  will-change: transform;
+}
+
+.viewer-track.is-dragging {
+  transition: none;
+}
+
+.viewer-slide {
+  flex: 0 0 33.333333%;
+  min-width: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.viewer-slide img {
+  display: block;
+  max-width: 100%;
+  max-height: 63dvh;
+  width: auto;
+  height: auto;
+  object-fit: contain;
+}
+
+/* JS uses these when the swipe is committed. No opacity changes. */
+.viewer-track.slide-next {
+  transform: translate3d(-66.666667%, 0, 0);
+}
+
+.viewer-track.slide-prev {
+  transform: translate3d(0, 0, 0);
+}
+
+/* Small cancelled swipe returns smoothly to the current piece. */
+.viewer-track.snap-center {
+  transform: translate3d(-33.333333%, 0, 0);
+}
+
+@media (max-width: 620px) {
+  .viewer-track {
+    transition-duration: 260ms;
+  }
+
+  .viewer-slide img {
+    max-height: 55dvh;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .viewer-track {
+    transition: none !important;
+  }
+}
