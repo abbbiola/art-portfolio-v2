@@ -7,7 +7,7 @@
         "category": "paintings",
         "medium": "acrylic on canvas",
         "year": 2025,
-        "dimensions": "",
+        "dimensions": "5x7",
         "image": "images/sunflowerlavender.jpeg",
         "alt": "acrylic painting of sunflowers and lavenders on a red background, painted in an impressionist style to suggest connection and meaning.",
         "description": "i tend to think about how objects like flowers, colours, or even small gestures can carry meaning between people. Lavenders are something i've always adored, and the sunflowers are tied to someone important to me. the red background felt like the right way to hold both things together. this was also one of my first times working in an impressionist style, which is really about letting go of details and focusing more on how something feels than how it looks. in other words, making artistic suggestions of what is seen."
@@ -18,7 +18,7 @@
         "category": "paintings",
         "medium": "fresco attached to wood",
         "year": 2023,
-        "dimensions": "",
+        "dimensions": "9x12",
         "image": "images/fruitbowl.jpeg",
         "alt": "fresco painting of a fruit bowl attached to wood, featuring soft colors and a simple arrangement.",
         "description": "this piece explores the theme of fragility and impermanence. the cracked surface of the fruit bowl serves as a metaphor for the passage of time and the inevitability of change. i wanted to capture the beauty in these imperfections, reminding us that even in our brokenness, there is still value and meaning."
@@ -29,7 +29,7 @@
         "category": "paintings",
         "medium": "acrylic on canvas",
         "year": 2024,
-        "dimensions": "",
+        "dimensions": "14x17",
         "image": "images/sunset.jpeg",
         "alt": "acrylic painting titled 'last light' showing a peaceful sunset with warm, blended colors symbolizing quiet endings.",
         "description": "i made this when i was learning to let go of old habits or outgrown friendships. endings don't always have to be dramatic or climatic. they can be silent and sort of peaceful? This was my way of being at peace with it."
@@ -38,10 +38,10 @@
         "id": "lotus",
         "title": "lotus",
         "category": "paintings",
-        "medium": "acrylic on canvas",
+        "medium": "acrylic on canvas paper",
         "year": 2022,
-        "dimensions": "",
-        "image": "images/lotus.jpg",
+        "dimensions": "8x10",
+        "image": "images/lotus.jpeg",
         "alt": "Acrylic painting of a lotus flower floating on water, symbolizing resilience and quiet strength.",
         "description": "The lotus is one of my favourite flowers and is a symbol of resilience for me. It grows in muddy water but still blooms beautifully above the surface. I painted this during a time when I needed to remind myself that growth can happen even in difficult circumstances. The soft colors and gentle ripples are meant to evoke a sense of quiet strength and hope."
       },
@@ -51,11 +51,22 @@
         "category": "paintings",
         "medium": "oil on canvas",
         "year": 2024,
-        "dimensions": "",
-        "image": "images/lily.JPG",
+        "dimensions": "14x17",
+        "image": "images/lily.jpeg",
         "alt": "Oil painting titled 'soft bloom' featuring a delicate lily in soft spring colors, representing renewal and uncertainty.",
         "description": "This piece was done in the spring, usually my favourite season. It's when things tend to start over to me, when everything, including nature, wakes up. But that year, I didn't feel any of that. I felt stuck, even as the world around me bloomed. I was unsure if the \"reset\" would ever happen. This painting was done solely on that feeling."
-      }
+      },
+      {
+  "id": "vasebaseball",
+  "title": "still life in green",
+  "category": "paintings",
+  "medium": "watercolour on paper",
+  "year": 2022,
+  "dimensions": "9x12",
+  "image": "images/vasebaseball.jpeg",
+  "alt": "Watercolor still life of a gray vase with flowers, two baseballs, and a small can arranged over draped fabric against a bright green background.",
+  "description": ""
+}
     ],
     "drawings": [
       {
@@ -189,7 +200,7 @@
   "image": "images/apple.jpeg",
   "alt": "graphite drawing of a round apple with a curved stem and overlapping leaves, rendered with soft shading and a dark cast shadow beneath it.",
   "description": ""
-}
+},
       {
   "id": "back",
   "title": "ascension",
@@ -279,73 +290,28 @@
   "description": ""
 },
         {
-  "id": "",
-  "title": "",
+  "id": "pumpkin",
+  "title": "pumpkin study",
   "category": "drawings",
   "medium": "graphite and charcoal on paper",
-  "year": 2026,
-  "dimensions": "",
-  "image": "images/",
-  "alt": "",
+  "year": 2022,
+  "dimensions": "9x12",
+  "image": "images/pumpkin",
+  "alt": "Charcoal drawing of a pumpkin, focusing on its ridged texture, curved form, and strong contrast between light and shadow.",
   "description": ""
 },
         {
-  "id": "",
-  "title": "",
+  "id": "wheelbarrow",
+  "title": "surreal object study",
   "category": "drawings",
-  "medium": "",
-  "year": 2026,
-  "dimensions": "",
-  "image": "images/",
-  "alt": "",
+  "medium": "colour pencil on paper",
+  "year": 2022,
+  "dimensions": "9x12",
+  "image": "images/wheelbarrow.jpeg",
+  "alt": "A colored pencil drawing of a wooden wheelbarrow with a red and white striped peppermint in place of a standard wheel, set against a white background with a soft shadow",
   "description": ""
-},
-        {
-  "id": "",
-  "title": "",
-  "category": "drawings",
-  "medium": "",
-  "year": 2026,
-  "dimensions": "",
-  "image": "images/",
-  "alt": "",
-  "description": ""
-},
-        {
-  "id": "",
-  "title": "",
-  "category": "drawings",
-  "medium": "",
-  "year": 2026,
-  "dimensions": "",
-  "image": "images/",
-  "alt": "",
-  "description": ""
-},
-        {
-  "id": "",
-  "title": "",
-  "category": "drawings",
-  "medium": "",
-  "year": 2026,
-  "dimensions": "",
-  "image": "images/",
-  "alt": "",
-  "description": ""
-},
-        {
-  "id": "",
-  "title": "",
-  "category": "drawings",
-  "medium": "",
-  "year": 2026,
-  "dimensions": "",
-  "image": "images/",
-  "alt": "",
-  "description": ""
-
+}
       
-    ]
-  },
+    ],
   "writing": []
 }
