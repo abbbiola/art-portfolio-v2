@@ -76,7 +76,7 @@
         "medium": "charcoal on paper",
         "year": 2023,
         "dimensions": "",
-        "image": "images/bermuda in passing.jpg",
+        "image": "images/bermuda in passing.jpeg",
         "alt": "Charcoal sketch of Bermuda landscape, drawn quickly from a moving vehicle to capture a fleeting moment.",
         "description": "I made this while on a tour of the island, my sketchbook balanced on my lap, and charcoal smudging under my fingers as the island moved past. It wasn't a planned piece, more like a passing moment I felt the need to capture before it disappeared."
       },
@@ -87,7 +87,7 @@
         "medium": "chalk pastel on paper",
         "year": 2023,
         "dimensions": "",
-        "image": "images/zebra.JPG",
+        "image": "images/zebra.jpeg",
         "alt": "Chalk pastel drawing of a zebra, symbolizing blurred identity and cultural adaptation.",
         "description": "This piece started with a pronunciation debate: \"zeh-bruh\" vs \"zee-bruh.\" It reminded me of how much I had to relearn after moving countries. Zebra stripes blur into each other, and so do the different parts of my identity."
       },
@@ -98,7 +98,7 @@
         "medium": "charcoal on paper",
         "year": 2025,
         "dimensions": "",
-        "image": "images/panda.jpg",
+        "image": "images/panda.jpeg",
         "alt": "Charcoal drawing of a panda, rendered in a soft impressionist style to convey gentleness.",
         "description": "This was a fun piece to do. I wanted to capture the panda's gentle nature with my version of impressionism without focusing on too much detail, keeping it soft and loose."
       },
@@ -109,7 +109,7 @@
         "medium": "charcoal on paper",
         "year": 2023,
         "dimensions": "",
-        "image": "images/pears.jpg",
+        "image": "images/pears.jpeg",
         "alt": "Charcoal drawing of two pears, focusing on soft shading and gentle highlights.",
         "description": "A simple study of two pears. I wanted to practice soft shading and gentle highlights, keeping the composition quiet and understated."
       },
@@ -164,7 +164,7 @@
         "medium": "charcoal on paper",
         "year": 2024,
         "dimensions": "",
-        "image": "images/skull.JPG",
+        "image": "images/skull.jpeg",
         "alt": "Charcoal drawing of a human skull, exploring shared human foundations and technical rendering.",
         "description": "Honestly, I chose the skull as a subject partly because I really wanted to push my rendering skills; getting those technical details and the way light and shadow play across bone is something I very much enjoy. But the more time I spent on it, the more I couldn't help but notice how I felt towards it. What remains is a reminder of how we all have a shared foundation no matter how different we may appear on the outside. We all return to this fundamental structure at the end."
       },
@@ -296,7 +296,7 @@
   "medium": "graphite and charcoal on paper",
   "year": 2022,
   "dimensions": "9x12",
-  "image": "images/pumpkin",
+  "image": "images/pumpkin.jpeg",
   "alt": "Charcoal drawing of a pumpkin, focusing on its ridged texture, curved form, and strong contrast between light and shadow.",
   "description": ""
 },
@@ -312,6 +312,7 @@
   "description": ""
 }
       
-    ],
+    ]
+  },
   "writing": []
 }
